@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      ai-generated-golden-crown-with-dark-background-photo_0: 548278935350499952
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

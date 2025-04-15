@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: a4c5827a74097b847b4480df063ca08f
+guid: b85478fff59f84e48b42b13cf1dd7f6b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 3117761698679516349
-    second: dark-souls-ii-crown-video-games-broken-wallpaper_0
+      213: -2730389834309074676
+    second: Dialog Box Example2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,30 +96,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: Windows Store Apps
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: dark-souls-ii-crown-video-games-broken-wallpaper_0
+      name: Dialog Box Example2_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1920
-        height: 1080
+        width: 400
+        height: 100
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -127,8 +114,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dbc6c101fb3844b20800000000000000
-      internalID: 3117761698679516349
+      spriteID: c018ba379e4bb1ad0800000000000000
+      internalID: -2730389834309074676
       vertices: []
       indices: 
       edges: []
@@ -143,8 +130,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      dark-souls-ii-crown-video-games-broken-wallpaper_0: 3117761698679516349
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

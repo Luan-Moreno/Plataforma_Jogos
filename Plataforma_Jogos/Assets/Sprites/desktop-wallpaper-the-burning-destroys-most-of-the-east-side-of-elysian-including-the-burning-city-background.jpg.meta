@@ -143,7 +143,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      desktop-wallpaper-the-burning-destroys-most-of-the-east-side-of-elysian-including-the-burning-city-background_0: -6669831690456086676
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

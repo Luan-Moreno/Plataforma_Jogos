@@ -5112,9 +5112,25 @@ PrefabInstance:
       propertyPath: m_HorizontalAlignment
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 6580520553014261661, guid: d46ca2e3c74964e40b843d60ae4843e0, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -410.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6580520553014261661, guid: d46ca2e3c74964e40b843d60ae4843e0, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 161.9
+      objectReference: {fileID: 0}
     - target: {fileID: 7261185002211743354, guid: d46ca2e3c74964e40b843d60ae4843e0, type: 3}
       propertyPath: m_Name
       value: Canvas
+      objectReference: {fileID: 0}
+    - target: {fileID: 7409743777609939564, guid: d46ca2e3c74964e40b843d60ae4843e0, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 299
+      objectReference: {fileID: 0}
+    - target: {fileID: 7409743777609939564, guid: d46ca2e3c74964e40b843d60ae4843e0, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -121
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
